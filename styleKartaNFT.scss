@@ -1,10 +1,50 @@
-body {
-    background-color: rebeccapurple;
+// ********************** KOLORTY **********************
+$background: #0C1829;
+$box: #12345C;
+$title: #FFFFFF;
+$primary: #04FCFA;
+$body: #9293B9;
+$stroke: #2B3953;
 
+// ********************** CZNIONKI **********************
+$font-family: Manrope;
+$font-weight-SemiBold: 600; // DO: H1, BODY1-BOLD, BODY2-BOLD
+$font-weight-Medium: 500;  // DO: BODY1, BODY2
+
+// *********** DESKTOP ***********
+$font-size-desktop-h1: 24px;
+$font-lineHeiht-desktop-h1: 24px;
+$font-letterSpacing-desktop-h1: 0%;
+
+$font-size-desktop-body1: 18px;
+$font-size-desktop-body2: 16px;
+$font-lineHeiht-desktop-body: 160%;
+$font-letterSpacing-desktop-body: -1%;
+
+// *********** MOBILE ***********
+$font-size-mobile-h1: 24px;
+$font-lineHeiht-mobile-h1: 24px;
+$font-letterSpacing-mobile-h1: 0%;
+
+$font-size-mobile-body1: 16px;
+$font-size-mobile-body2: 14px;
+$font-lineHeiht-mobile-body: 160%;
+$font-letterSpacing-mobile-body: -1%;
+
+// ********************** BORDER + STROKE =/= HR? **********************
+$borderRadius: 20px;
+$stroke-size: 1px;
+
+
+
+
+// ********************** STYLOWANIE **********************
+body {
+    background-color: $background;
+    font-family: $font-family;
+    
     h1 {
-        text-align: center;
         color: orange;
-        letter-spacing: 10px;
-        text-transform: uppercase; 
     }
+
 }

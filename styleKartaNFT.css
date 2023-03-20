@@ -1,9 +1,7 @@
 body {
-  background-color: rebeccapurple;
+  background-color: #0C1829;
+  font-family: Manrope;
 }
 body h1 {
-  text-align: center;
   color: orange;
-  letter-spacing: 10px;
-  text-transform: uppercase;
 }/*# sourceMappingURL=styleKartaNFT.css.map */
