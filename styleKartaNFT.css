@@ -1,7 +1,12 @@
+img {
+  transform: scale(0.5);
+}
+
 body {
   background-color: #0C1829;
   font-family: Manrope;
 }
-body h1 {
-  color: orange;
+
+hr {
+  border: 1.5px solid orange;
 }/*# sourceMappingURL=styleKartaNFT.css.map */

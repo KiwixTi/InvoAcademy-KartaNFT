@@ -6,7 +6,7 @@ $primary: #04FCFA;
 $body: #9293B9;
 $stroke: #2B3953;
 
-// ********************** CZNIONKI **********************
+// ********************** CZNIONKI *********************
 $font-family: Manrope;
 $font-weight-SemiBold: 600; // DO: H1, BODY1-BOLD, BODY2-BOLD
 $font-weight-Medium: 500;  // DO: BODY1, BODY2
@@ -31,20 +31,24 @@ $font-size-mobile-body2: 14px;
 $font-lineHeiht-mobile-body: 160%;
 $font-letterSpacing-mobile-body: -1%;
 
-// ********************** BORDER + STROKE =/= HR? **********************
+// *************** BORDER + STROKE =/= HR? **************
 $borderRadius: 20px;
 $stroke-size: 1px;
 
 
+// ********************** STYLOWANIE ********************
+img {
+    transform: scale(0.5);
+}
 
-
-// ********************** STYLOWANIE **********************
 body {
     background-color: $background;
     font-family: $font-family;
     
-    h1 {
-        color: orange;
-    }
 
+
+}
+hr {
+    border: 1.5px solid orange;
+    
 }
