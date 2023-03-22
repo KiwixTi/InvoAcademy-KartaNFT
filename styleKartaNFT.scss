@@ -49,6 +49,15 @@ hr {
 body {
     background-color: $background;
     font-family: $font-family;
+}
 
-    
+main {
+    margin: auto;
+    max-width: 10em;
+    background-color: red;
+
+    article {
+        background-image: url("./foto/zdj1.png");
+        
+    }
 }

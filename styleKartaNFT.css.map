@@ -1,1 +1,1 @@
-{"version":3,"sources":["styleKartaNFT.scss","styleKartaNFT.css"],"names":[],"mappings":"AAuCA;EACI,qBAAA;ACtCJ;;ADyCA;EACI,0BAAA;ACtCJ;;AD0CA;EACI,yBAhDS;EAiDT,oBAzCU;ACEd","file":"styleKartaNFT.css"}
+{"version":3,"sources":["styleKartaNFT.scss","styleKartaNFT.css"],"names":[],"mappings":"AAuCA;EACI,qBAAA;ACtCJ;;ADyCA;EACI,0BAAA;ACtCJ;;AD0CA;EACI,yBAhDS;EAiDT,oBAzCU;ACEd;;AD0CA;EACI,YAAA;EACA,eAAA;EACA,qBAAA;ACvCJ;ADyCI;EACI,wCAAA;ACvCR","file":"styleKartaNFT.css"}

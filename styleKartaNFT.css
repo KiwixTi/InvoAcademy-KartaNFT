@@ -9,4 +9,13 @@ hr {
 body {
   background-color: #0C1829;
   font-family: Manrope;
+}
+
+main {
+  margin: auto;
+  max-width: 10em;
+  background-color: red;
+}
+main article {
+  background-image: url("./foto/zdj1.png");
 }/*# sourceMappingURL=styleKartaNFT.css.map */
